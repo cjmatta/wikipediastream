@@ -1,2 +1,2 @@
 ### Wikipediastream Toy
-This is a project create to learn to use the [okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource) API to consume Wikimedia's [Server Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events): https://wikitech.wikimedia.org/wiki/EventStreams
+This is a project created to learn to use the [okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource) API to consume Wikimedia's [Server Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events): https://wikitech.wikimedia.org/wiki/EventStreams
